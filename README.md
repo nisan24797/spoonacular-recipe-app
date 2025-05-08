@@ -2,8 +2,8 @@
 
 This is a React.js application that allows users to search for recipes using the Spoonacular API. Users can filter by cuisine, view paginated search results, and see detailed recipe information.
 
-<!-- ## 🔗 Live Demo
-[Live Link (Optional)](https://yourusername.github.io/spoonacular-recipe-app) -->
+## 🔗 Live Demo
+[Live Link](https://spoonacular-recipe-78wmkpoz1-nisan24797s-projects.vercel.app/)
 
 ## 🚀 Features
 - Search recipes by keyword
